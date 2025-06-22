@@ -8,7 +8,7 @@
 
 # **How to launch**
 1. Download RTCW, RealRTCW on steam.
-2. Copy earthcastle.pk3 to:_ Documents/RealRTCW/5.1/main/_
+2. Copy earthcastle.pk3 to: _Documents/RealRTCW/5.1/main/_
 3. Launch **RealRTCW**
 4. Open console **`** and write _/spdevmap earthcastle_
 5. Done
