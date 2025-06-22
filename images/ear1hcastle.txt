@@ -13,16 +13,7 @@ Misc. Author Info       : RRSP#3, DBP69, J.O.P.A., FS16, WhoIsWho, Doom
                           Around The World member, leader of Blitz: Race
                           Against Time. Check Doom wiki: Ear1h
 
-Description             : How to launch:
-							1. Download RTCW, RealRTCW on steam.
-							2. Unpack this
-							3. Copy earthcastle.pk3 to:
-							Documents/RealRTCW/5.1/main/
-							4. Launch RealRTCW
-							5. Open console ` and write /spdevmap earthcastle (If you on Russian keyboard, change to English)
-							6. Done
-	
-						  You have been sent to one of the classified castles
+Description             : You have been sent to one of the classified castles
                           in Germany, where they are conducting
                           archaeological excavations inside underground
                           citadels. 
